@@ -1,6 +1,6 @@
 TODO = False
-SKIP = False
-EXIT = False
+SKIP = True
+EXIT = True
 TIME_IT = True
 TEST = False
 TEST_SHOW_DIFF = True

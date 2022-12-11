@@ -1,11 +1,8 @@
-import os
-import sys
-
-TODO = False # if checked, prints info when skipping
-SKIP = False # skip this file
-EXIT = False # if checked, skip this file (and don't print info about executing it)
-TIME_IT = True # if checked, it will output the time it took to execute the function
-TEST = True # if checked, test TEST_CASE (not input file, if any)
+TODO = False
+SKIP = False
+EXIT = False
+TIME_IT = True
+TEST = True
 TEST_SHOW_DIFF = True
 TEST_CASE_RESULT = None
 TEST_CASE = """"""
